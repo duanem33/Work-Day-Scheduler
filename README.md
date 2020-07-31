@@ -1,1 +1,2 @@
-# Work-Day-Scheduler
+# Day Scheduler
+ Js and Jquery Project
